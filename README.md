@@ -1,3 +1,2 @@
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisispivi&show_icons=true&count_private=true alt="thisispivi" />
-</p>
+                                                                                                                                           
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisispivi&theme=dark&show_icons=true&count_private=true)
